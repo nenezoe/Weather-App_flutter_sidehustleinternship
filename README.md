@@ -15,8 +15,7 @@ A new Flutter project that gives you accurate weather information based on the [
 
 ### :camera: Screenshots:
 
-![WeatherScreen](https://user-images.githubusercontent.com/20473914/121101494-d89bc680-c7f3-11eb-8ccb-a306c39b21ce.jpg)
-![CityScreen](https://user-images.githubusercontent.com/20473914/121101505-ddf91100-c7f3-11eb-9939-258e965f1abe.jpg)
+
 
 
 ---
